@@ -1,6 +1,7 @@
-## This my Portfolio website github
+## Portfolio Website
+for Josh Bottelberghe
 
-**Template Source:** https://bashooka.com/freebie/free-html-portfolio-website-templates/
+Template Source: https://bashooka.com/freebie/free-html-portfolio-website-templates/
 
 ### It displays relivent information about me and links to projects
 
