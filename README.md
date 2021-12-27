@@ -1,4 +1,4 @@
 ## Portfolio Website
 for Josh Bottelberghe
 
-deleteing everthing and doing it myself
+Link [https://jbottelb.netlify.app]
